@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src=".github/podcastr.svg" />
-</h1>
+
 
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
