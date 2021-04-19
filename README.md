@@ -35,7 +35,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/guilhermecapitao/nlw05-reactjs.git && cd nlw05-reactjs
+$ git clone https://github.com/Davisampaiom/NLW5_react-next.git && cd NLW5_react-next
 ```
 
 Follow the steps below
@@ -49,7 +49,6 @@ $ yarn dev
 
 ## 💻 Project
 
-[Podcastr](https://podcastr-nlw.vercel.app/) to bring you even closer to the best technology podcasts! 💜 
 
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
 
